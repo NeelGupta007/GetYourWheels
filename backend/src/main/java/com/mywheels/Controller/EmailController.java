@@ -20,7 +20,7 @@ public class EmailController {
     public void sendMail(){
         String messagebody = "Hello Dear,";
         messagebody +="\n\n Your Order is Placed SuccessFully \n\n\n ThankYou";
-        emailService.sendEmail("test mail", messagebody, "rverma870@gmail.com");
+        emailService.sendEmail("test mail", messagebody, "neel.gupta135@gmail.com");
     }
 
 }

@@ -8,9 +8,9 @@ email - admin@gmail.com
 password - 123
 
 - For dealer
-email - rverma870@gmail.com 
+email - dealer.1@gmail.com 
 password - Dealer@123
 
 - For user
-email - riyaverma.4563@gmail.com
+email - user.1@gmail.com
 password - User@123
